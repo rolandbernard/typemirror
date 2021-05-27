@@ -1,0 +1,15 @@
+
+build/
+.vscode/
+compile_flags.txt
+.vimspector.json
+
+*.log
+callgrind.*
+perf.*
+gmon.*
+test.*
+tmp.*
+*.tmp.basic
+
+.gdb_history
